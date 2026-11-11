@@ -1,0 +1,7 @@
+SITE DO CONGRESSO — PRÉVIA
+
+Para consultar o site com busca nos resumos, execute nesta pasta: python3 -m http.server 8000
+Depois abra http://localhost:8000 no navegador.
+
+A programação segue a versão preliminar do site e deve ser conferida com o PDF oficial.
+Os textos dos resumos foram importados da compilação anterior e exigem revisão de fidelidade antes da publicação definitiva.
